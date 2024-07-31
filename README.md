@@ -1,4 +1,4 @@
-# MatlabEDAzFunction
+# Matlab Eencryption and Decryption on Azure using Azure Function
 
 A structured approach to deploy MATLAB-based encryption and decryption on Azure using Azure Functions. Here's a comprehensive step-by-step guide:
 
